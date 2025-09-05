@@ -1,13 +1,13 @@
 ---
 title: "Lela Boermeester"
-date: 2024-03-20
+date: 2024-09-08
 lastmod: 2024-09-08
 tags: ["math","stats","infectious diseases"]
 author: "Lela Boermeester"
 description: "Background on Lela Boermeester" 
 summary: "Population Health major with interests in data science, infectious diseases modeling, and health equity"
 cover:
-    image: "XX"
+    image: "boermeester.jpg"
     alt: ""
     relative: false
 editPost:
